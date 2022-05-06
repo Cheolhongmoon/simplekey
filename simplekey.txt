@@ -1,0 +1,43 @@
+o : 커서위치 바로 아래에 새로운 라인 추가하면서 입력
+O : 커서위치 바로 위에 새로운 라인 추가하면서 입력
+:$ : 마지막으로 이동
+u : 실행취소
+ctrl + r :되돌리기
+x : del
+dw : 단어 지우기
+ce : insert기능
+cmd g : 상태위치
+/ : 단어찾기
+% : 괄호비교
+윈도우 새로분할 : cmd + d
+윈도우 분할 닫기: cmd + shift + d
+새로운 윈도우	Command-N
+새로운 윈도우(동일한 명령어 포함)	Control-Command-N
+새로운 탭	Command-T
+새로운 탭(동일한 명령어 포함)	Control-Command-T
+탭 막대 보기 또는 가리기	Shift-Command-T
+모든 탭 보기 또는 탭 개요 종료	Shift-Command-백슬래시(\)
+새로운 명령어	Shift-Command-N
+새로운 원격 연결	Shift-Command-K
+속성을 보기 또는 가리기	Command-I
+제목 편집하기	Shift-Command-I
+배경 색상 편집하기	Option-Command-I
+서체를 크게 만들기	Command-더하기(+)
+서체를 작게 만들기	Command-빼기(-)
+다음 윈도우	Command-낮은 악센트 표(`)
+이전 윈도우	Command-Shift-물결표(~)
+다음 탭	Control-Tab
+이전 탭	Control-Shift-Tab
+윈도우를 두 패널로 나누기	Command-D
+분할 패널 닫기	Shift-Command-D
+탭 닫기	Command-W
+윈도우 닫기	Shift-Command-W
+다른 탭 닫기	Option-Command-W
+모두 닫기	Option-Shift-Command-W
+맨 위로 이동	Command-Home
+맨 아래로 이동	Command-End
+페이지 위로	Command-Page Up
+페이지 아래로	Command-Page Down
+줄 올리기	Option-Command-Page Up
+줄 내리기	Option-Command-Page Down
+
